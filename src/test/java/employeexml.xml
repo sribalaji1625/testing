@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empDetails>
+<employee1>
+
+      <id>1234</id>
+      <name>sribalaji</name>
+      <phone>6383647686</phone>
+    <adress>
+       <street>anna nagar</street>
+      <city>chennai</city>
+      <state>tamil nadu</state>
+      
+   </adress>
+   <mail>
+   
+          <personal>sribalaji@1625gamil.com</personal>
+          <officical>sribalaji2516@ouylook.com</officical>   
+          
+   </mail>
+   </employee1>
+   <employee1>
+   
+    <id>1234567</id>
+      <name>nisha</name>
+      <phone>1234567890</phone>
+      <adress>
+      
+      <street>kk nagar</street>
+      <city>pondy</city>
+      <state>tamil nadu</state>
+      
+   </adress>
+   <mail>
+   
+          <personal>nisha@2516gamil.com</personal>
+          <officical>nisha2516@ouylook.com</officical>   
+          
+   </mail>      
+   </employee1> 
+   
+ </empDetails>
